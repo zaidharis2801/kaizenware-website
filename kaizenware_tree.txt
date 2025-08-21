@@ -1,0 +1,32 @@
+Directory Tree Structure
+Root Directory: C:\Users\pc\Desktop\Kaizenware\Kaizenware-website\kaizenware
+Generated: win32
+==================================================
+
+kaizenware/
+├── public/
+├── src/
+│   ├── app/
+│   │   ├── globals.css
+│   │   ├── layout.js
+│   │   └── page.js
+│   └── components/
+│       ├── CTASection.js
+│       ├── Features.js
+│       ├── Footer.js
+│       ├── Hero.js
+│       └── Navbar.js
+├── eslint.config.mjs
+├── jsconfig.json
+├── kaizenware_files.txt
+├── kaizenware_tree.txt
+├── next.config.mjs
+├── package.json
+├── postcss.config.mjs
+├── README.md
+└── tailwind.config.js
+
+==================================================
+Tree Generation Summary:
+Total items displayed: 21
+Skipped directories: .angular, .cache, .coverage, .env, .git, .idea, .mypy_cache, .next, .nuxt, .pytest_cache, .terraform, .tox, .vscode, __pycache__, bin, bower_components, build, coverage, dist, env, htmlcov, logs, node_modules, obj, out, target, terraform.tfstate.d, tmp, vendor, venv
